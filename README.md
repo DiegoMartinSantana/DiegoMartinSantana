@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**DiegoMartinSantana/DiegoMartinSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hola, soy Diego Santana👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 About Me
+Hola ! Soy desarrollador .Net,  de Buenos Aires, Argentina.
+Tengo varios Proyectos Realizados en el Framework , ademas de muchas otras cosas los cuales podras visitar en mi Github : https://github.com/DiegoMartinSantana
+
+Actualmente me encuentro Finalizando una Tecnicatura en Programacion en la U.T.N (Universidad Tecnologica Nacional ), en el ultimo cuatrimestre de la carrera. Ademas tengo cantidad de cursos realizados que podras ver a detalle en : https://online.publuu.com/585442/1313556
+
+
+## 🛠 Skills
+- .Net Core ( Mvc , Web Apis)
+- .Net Framework ( WebForms / Winforms)
+
+- Entity Framework . Ado.Net
+- Json Web Tokens (JWT)
+- Sql / T-Sql
+- Patrones de Diseño
+- Boostrapp
+- Css , Html y Js.
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://online.publuu.com/585442/1313556)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegosantanadev-net/)
+
+
