@@ -11,15 +11,14 @@ Actualmente me encuentro Finalizando una Tecnicatura en Programacion en la U.T.N
 
 
 ## 🛠 Skills
-- .Net Core ( Mvc , Web Apis)
-- .Net Framework ( WebForms / Winforms)
-
-- Entity Framework . Ado.Net
-- Json Web Tokens (JWT)
-- Sql / T-Sql
-- Patrones de Diseño
-- Boostrapp
-- Css , Html y Js.
+.Net Core ( Mvc , Web Apis),
+.Net Framework ( WebForms / Winforms),
+ Entity Framework, . Ado.Net,
+Json Web Tokens (JWT),
+ Sql / T-Sql,
+Patrones de Diseño,
+ Boostrapp,
+ Css , Html y Js.
 
 
 ## 🔗 Links
