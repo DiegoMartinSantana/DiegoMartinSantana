@@ -5,7 +5,6 @@
 
 ## 🚀 About Me
 Hola ! Soy desarrollador .Net,  de Buenos Aires, Argentina.
-Tengo varios Proyectos Realizados en el Framework , ademas de muchas otros proyectos finalizados y en curso! 
 
 Actualmente me encuentro Finalizando una Tecnicatura en Programacion en la U.T.N (Universidad Tecnologica Nacional ), en el ultimo cuatrimestre de la carrera. Ademas tengo cantidad de cursos realizados que podras ver a detalle en : https://online.publuu.com/585442/1313556
 
