@@ -10,6 +10,7 @@ Actualmente me encuentro Finalizando una Tecnicatura en Programacion en la U.T.N
 
 
 ## 🛠 Skills
+.Net
 .Net Core ( Mvc , Web Apis),
 .Net Framework ( WebForms / Winforms),
  Entity Framework, . Ado.Net,
