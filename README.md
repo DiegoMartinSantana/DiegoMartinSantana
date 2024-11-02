@@ -4,16 +4,13 @@
 
 
 ## 🚀 About Me
-Hola ! Soy desarrollador .Net,  de Buenos Aires, Argentina.
+Hola ! Soy desarrollador de Software  de Buenos Aires, Argentina.
 
 Actualmente me encuentro Finalizando una Tecnicatura en Programacion en la U.T.N (Universidad Tecnologica Nacional ), en el ultimo cuatrimestre de la carrera. Ademas tengo cantidad de cursos realizados que podras ver a detalle en : https://online.fliphtml5.com/wxhjl/ggyq/
 
 
 ## 🛠 Skills
-.Net,
-.Net Core ( Mvc , Web Apis),
-.Net Framework ( WebForms / Winforms),
- Entity Framework, . Ado.Net,
+.Net, Nest Js , Angular,
 Json Web Tokens (JWT),
  Sql / T-Sql,
 Patrones de Diseño,
