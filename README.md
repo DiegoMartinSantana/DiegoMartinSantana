@@ -1,23 +1,26 @@
+Hi, I'm Diego Santana 👋
+🚀 About Me
 
+Hi! I’m a Software Developer from Buenos Aires, Argentina.
+I have experience building backend and frontend applications, focusing on clean code, scalability, and good architectural practices.
 
-# Hola, soy Diego Santana👋
+I graduated as a Programming Technician from the National Technological University (UTN) and I continuously improve my skills by working with modern web technologies.
 
+I have hands-on experience with .NET, NestJS, Angular, and Docker, developing service-oriented applications, REST APIs, and full-stack web solutions.
 
-## 🚀 About Me
-Hola ! Soy desarrollador de Software  de Buenos Aires, Argentina.
+🛠️ Technical Skills
 
-Actualmente me encuentro Finalizando una Tecnicatura en Programacion en la U.T.N (Universidad Tecnologica Nacional ), en el ultimo cuatrimestre de la carrera. Ademas tengo cantidad de cursos realizados que podras ver a detalle en : https://online.fliphtml5.com/wxhjl/ggyq/
+Backend:
+.NET (C#), NestJS, REST APIs, JWT (JSON Web Tokens)
 
+Frontend:
+Angular, HTML, CSS, JavaScript, Bootstrap
 
-## 🛠 Skills
-.Net, Nest Js , Angular,
-Json Web Tokens (JWT),
- Sql / T-Sql,
-Patrones de Diseño,
- Boostrapp,
- Css , Html y Js.
+Databases:
+SQL / T-SQL
 
+Architecture & Best Practices:
+Design Patterns, separation of concerns, validation and security
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://online.fliphtml5.com/wxhjl/ggyq/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegosantanadev-net/)
+DevOps / Infrastructure:
+Docker, containerized environments
